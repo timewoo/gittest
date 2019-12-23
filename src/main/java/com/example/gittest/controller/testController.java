@@ -19,6 +19,10 @@ public class testController {
         return "master2";
     }
 
+    public static String master3(){
+        return "master3";
+    }
+
     public static String develop2(){
         return "develop2";
     }
