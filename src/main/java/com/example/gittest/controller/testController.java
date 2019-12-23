@@ -10,4 +10,8 @@ public class testController {
         String s = "master1";
         System.out.println(s);
     }
+
+    public static String master2(){
+        return "master2";
+    }
 }
