@@ -12,7 +12,7 @@ public class testController {
     }
 
     public static String develop1(){
-        return "develop1";
+        return "develop11";
     }
 
     public static String master2(){
