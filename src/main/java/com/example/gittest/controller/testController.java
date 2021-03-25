@@ -11,4 +11,5 @@ public class testController {
         System.out.println(s);
     }
 
+    public static final String develop2="develop2";
 }
