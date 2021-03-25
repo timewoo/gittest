@@ -11,19 +11,4 @@ public class testController {
         System.out.println(s);
     }
 
-    public static String develop1(){
-        return "develop1";
-    }
-
-    public static String master2(){
-        return "master2";
-    }
-
-    public static String master3(){
-        return "master3";
-    }
-
-    public static String develop2(){
-        return "develop2";
-    }
 }
