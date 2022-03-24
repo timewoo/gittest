@@ -7,7 +7,7 @@ package com.example.gittest.controller;
 public class testController {
 
     public static void main(String[] args) {
-        String s = "dev1";
+        String s = "dev2";
         System.out.println(s);
     }
 }
