@@ -7,6 +7,6 @@ package com.example.gittest.controller;
 public class testController {
 
     public static void main(String[] args) {
-        String s = "dev2";
+        String s = "master";
     }
 }
