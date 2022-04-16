@@ -7,6 +7,6 @@ package com.example.gittest.controller;
 public class testController {
 
     public static void main(String[] args) {
-        String s = "rebase-2";
+        String s = "rebase-1";
     }
 }
